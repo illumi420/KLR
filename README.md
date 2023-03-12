@@ -39,7 +39,7 @@ And part of the Stuff you would handle while Fighting against the Final Bosses (
 <h1>What's on This  Repo ?</h1>
 
 <ul>
-  <li>The .py files that I think it can be published here.  and maybe the requierment.txt file</li>
+  <li>The .py files that I think its ready to be published here. and the requierment.txt file</li>
   <br>
   <li>Example Folder That has Exercices PDFS which are solved by the PDF publisher and .png files for the solutions that are made by python in this Tool.</li>
   <br>
@@ -50,16 +50,28 @@ And part of the Stuff you would handle while Fighting against the Final Bosses (
 
 <h2>Linux</h2>
 
-$ python3 -m pip install virtualenv
-after cloning KLR Localy
-$ python3 -m virtualenv  ~/KLR/klr-env
-$ chmod  +x  klr-env/bin/activate
-$ . klr-env/bin/activate
-$ pip install -r requirements.txt
-when you finish
-$ deactivate
+$ python3 -m pip install virtualenv <br>
+after cloning KLR Localy <br>
+$ python3 -m virtualenv  ~/KLR/klr-env <br>
+$ chmod  +x  klr-env/bin/activate <br>
+$ . klr-env/bin/activate <br>
+$ pip install -r requirements.txt <br>
+when you finish <br>
+$ deactivate <br>
 
 <h3>runner file is kostenleistungrechner.py</h3>
+
+<h1>Usage:</h1>
+<ul>
+<li>the prompt Beschaffungskosten in Exercises has various names, but in the Exercises its always the costs before "Handlungskosten"</li>  
+<li>in Handelskalkulation in all Three Modes it prompts <b>+Handlungskosten€:</b> and <b>+Handlungskosten%:</b> as in some cases its given in € in other cases in % so input 0 for the unavailable option</li>
+</ul>
+
+<h1>Plans for The Future of this Tool:</h1>
+<ul>
+<li>Web-Interface</li>
+<li>Upload Exercise file, Fetch valubale infos, calculate</li> 
+</ul>
 
 <h4>+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-</h4>
 
@@ -109,13 +121,13 @@ Und ein Teil des Stoffes, den du während deines Studiums im Kampf gegen die End
 
 <h1>Wie wird es ausgeführt  ?</h1>
 
-$ python3 -m pip install virtualenv
-after cloning KLR Localy
-$ python3 -m virtualenv  ~/KLR/klr-env
-$ chmod  +x  klr-env/bin/activate
-$ . klr-env/bin/activate
-$ pip install -r requirements.txt
-when you finish
-$ deactivate
+$ python3 -m pip install virtualenv  <br>
+after cloning KLR Localy  <br>
+$ python3 -m virtualenv  ~/KLR/klr-env  <br>
+$ chmod  +x  klr-env/bin/activate <br>
+$ . klr-env/bin/activate  <br>
+$ pip install -r requirements.txt <br>
+when you finish  <br>
+$ deactivate <br>
 
 <h3>runner file is kostenleistungrechner.py</h3>
