@@ -64,13 +64,13 @@ $ deactivate <br>
 <h1>Usage:</h1>
 <ul>
 <li>the prompt Beschaffungskosten in Exercises has various names, but in the Exercises its always the costs before "Handlungskosten"</li>  
-<li>in Handelskalkulation in all Three Modes it prompts <b>+Handlungskosten€:</b> and <b>+Handlungskosten%:</b> as in some cases its given in € in other cases in % so input 0 for the unavailable option</li>
+<li>in Handelskalkulation in all Three Modes it prompts <b>"+Handlungskosten€:"</b> and <b>"+Handlungskosten%:"</b> as in some cases its given in "€" in other cases in "%" so input <b>0</b> for the unavailable option</li>
 </ul>
 
 <h1>Plans for The Future of this Tool:</h1>
 <ul>
 <li>Web-Interface</li>
-<li>Upload Exercise file, Fetch valubale infos, calculate</li> 
+<li>Upload Exercise file, Fetch key infos, calculate</li> 
 </ul>
 
 <h4>+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-</h4>
@@ -131,3 +131,16 @@ when you finish  <br>
 $ deactivate <br>
 
 <h3>runner file is kostenleistungrechner.py</h3>
+
+<h1>Nutzung:</h1>
+
+<ul>
+<li>Die Eingabeaufforderung Beschaffungskosten in Übungen hat verschiedene Namen, aber in den Übungen sind es immer die Kosten vor "Handlungskosten"</li>  
+<li>in der Handelskalkulation wird in allen drei Modi <b>"+Handlungskosten€:"</b> und <b>"+Handlungskosten%:"</b> abgefragt, da in einigen Fällen "€" und in anderen Fällen "%" angegeben werden, also geben Sie <b>0</b> für die nicht verfügbare Option ein</li>
+</ul>
+
+<h1>Pläne für die Zukunft dieses Tools:</h1>
+<ul>
+<li>Webschnittstelle</li>
+<li>Übungsdatei hochladen, Schlüsselinfos abrufen, berechnen</li> 
+</ul>
