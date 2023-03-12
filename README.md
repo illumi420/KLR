@@ -11,7 +11,7 @@ how this KLR thing works "the math behind it" or at least  to have this math don
 
 <h1>NOTE!</h1>                                        
 
-<b>In  Regard  the PDF  Files in the <b>Exampel</b> folder:</b>
+<b>In  Regard  the PDF  Files in the <a  href="https://github.com/illumi420/KLR/tree/main/Examples" target ="_blank">Exampel</a> folder:</b>
 
 <em>"The PDF files provided on this Repo are not my own creation, but rather the work of others. 
 These files are provided for descriptive purposes only and are not intended to infringe upon any copyrights or intellectual property rights. 
@@ -85,7 +85,7 @@ wie diese KLR-Sache "die Mathematik dahinter" funktioniert, oder zumindest, um d
 
 <h1>NOTE!</h1>                                        
 
-<b>In Bezug auf die PDF-Dateien im Ordner <b>Exampel</b>:</b>
+<b>In Bezug auf die PDF-Dateien im Ordner<a  href="https://github.com/illumi420/KLR/tree/main/Examples" target ="_blank">Exampel</a>:</b>
 
 <em>"Die in diesem Repo bereitgestellten PDF-Dateien sind nicht meine eigene Kreation, sondern die Arbeit anderer. 
 Diese Dateien werden nur zu Beschreibungszwecken zur Verfügung gestellt und sollen keine Urheberrechte oder geistigen Eigentumsrechte verletzen. 
