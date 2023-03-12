@@ -41,7 +41,7 @@ And part of the Stuff you would handle while Fighting against the Final Bosses (
 <ul>
   <li>The .py files that I think its ready to be published here. and the requierment.txt file</li>
   <br>
-  <li>Example Folder That has Exercices PDFS which are solved by the PDF publisher and .png files for the solutions that are made by python in this Tool.</li>
+  <li>Example Folder That has Exercices PDFS which are solved by the PDF publisher and images for the solutions that are made by python in this Tool.</li>
   <br>
   <li>A GNU License and this beautiful README</li>
 </ul>
@@ -115,7 +115,7 @@ Und ein Teil des Stoffes, den du während deines Studiums im Kampf gegen die End
 <ul>
   <li>Die .py Dateien, die ich denke, dass sie hier veröffentlicht werden können. und das requierment.txt datei</li>
   <br>
-  <li>Beispielordner, der Übungs-PDFs enthält, die vom PDF-Herausgeber gelöst werden und .png-Dateien für die Lösungen, die mit Python in diesem Tool gemacht werden.</li>
+  <li>Beispielordner, der Übungs-PDFs enthält, die vom PDF-Herausgeber gelöst werden und Bilder für die Lösungen, die mit Python in diesem Tool gemacht werden.</li>
   <li>Eine GNU-Lizenz und dieses schöne README</li>
 </ul>
 
