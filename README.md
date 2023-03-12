@@ -9,6 +9,16 @@ This Tool relays on Python module Pandas, and was Developed by me for me to trai
 how this KLR thing works "the math behind it" or at least  to have this math done by a computer.
 
 
+<h1>NOTE!</h1>                                        
+
+<b>In  Regard  the PDF  Files in the <b>Exampel</b> folder:</b>
+
+<em>"The PDF files provided on this Repo are not my own creation, but rather the work of others. 
+These files are provided for descriptive purposes only and are not intended to infringe upon any copyrights or intellectual property rights. 
+I do not claim ownership or authorship of these files, and they are provided as-is, without any warranties or guarantees of accuracy or suitability 
+for any particular purpose."</em>
+
+
 <h1>For Whom this Tool aimed for ?</h1>
 
 You are Doing a "Training/Retraining" in the direction of specialist information technology in Germany.  
@@ -60,6 +70,14 @@ den Kosten und Leistungen eines Unternehmens, die in direktem Zusammenhang mit d
 
 Dieses Tool stützt sich auf das Python-Modul Pandas und wurde von mir entwickelt, um meine Pandas-Kenntnisse zu trainieren und irgendwie zu verstehen,
 wie diese KLR-Sache "die Mathematik dahinter" funktioniert, oder zumindest, um diese Mathematik von einem Computer erledigen zu lassen.
+
+<h1>NOTE!</h1>                                        
+
+<b>In Bezug auf die PDF-Dateien im Ordner <b>Exampel</b>:</b>
+
+<em>"Die in diesem Repo bereitgestellten PDF-Dateien sind nicht meine eigene Kreation, sondern die Arbeit anderer. 
+Diese Dateien werden nur zu Beschreibungszwecken zur Verfügung gestellt und sollen keine Urheberrechte oder geistigen Eigentumsrechte verletzen. 
+Ich erhebe keinen Anspruch auf das Eigentum oder die Urheberschaft an diesen Dateien, und sie werden so wie sie sind zur Verfügung gestellt, ohne jegliche Garantien oder Gewährleistungen für die Richtigkeit oder Eignung für einen bestimmten Zweck."</em>
  
  
 <h1>Für wen ist dieses Tool gedacht?</h1>
